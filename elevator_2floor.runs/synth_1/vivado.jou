@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Jun 24 16:01:13 2021
+# Process ID: 14224
+# Current directory: E:/PersonalProgram/2019021402021/elevator_2floor/elevator_2floor.runs/synth_1
+# Command line: vivado.exe -log topsource.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source topsource.tcl
+# Log file: E:/PersonalProgram/2019021402021/elevator_2floor/elevator_2floor.runs/synth_1/topsource.vds
+# Journal file: E:/PersonalProgram/2019021402021/elevator_2floor/elevator_2floor.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source topsource.tcl -notrace
